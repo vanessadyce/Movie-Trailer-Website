@@ -20,7 +20,7 @@ black_panther = media.Movie("Black Panther",
                            "https://www.youtube.com/watch?v=xjDjIWPwcPU")
 pink_panther = media.Movie("Pink Panther",
                           "https://occ-0-299-300.1.nflxso.net/art/adf73/da2740163ceaf78cbd9a46375d5edf90b09adf73.jpg",  # NOQA
-                          "https://www.youtube.com/watch?v=NcU7zxZPSBg")
+                          "https://www.youtube.com/watch?v=0CYYvYlYYbQ")
 finding_nemo = media.Movie("Finding Nemo",
                           "https://vignette.wikia.nocookie.net/disney/images/e/e5/Finding_Nemo_-_Poster_2.jpg/revision/latest?cb=20160317165615",  # NOQA
                           "https://www.youtube.com/watch?v=wZdpNglLbt8")
